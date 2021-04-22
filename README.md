@@ -1,5 +1,3 @@
-# tabnine-netbeans-ide
-
 ## **TabNine For Netbeans IDE**
 
 **This repository is a placeholder, used to gauge the level of interest of Netbeans IDE users in a TabNine extension.**
